@@ -1,0 +1,14 @@
+//zalitj
+cd ....
+git add test123.txt
+git commit -m "Comment"
+git push origin master
+//ska4atj
+git clone https://github.com/st160256/Test.git
+//dopolnitj
+git pull
+
+git config --global http.proxy http://st160256:HDp3kZg9BA@proxy.du.lv:3128
+git config --global user.name st160256
+git config --global user.email znaj123@inbox.lv
+git config --global github.user st160256
